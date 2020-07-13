@@ -1,0 +1,2 @@
+
+(function(){var strings={};strings['Back to Album']='Revenir à l’album';strings['Download']='Télécharger';strings['Previous']='Précédent';strings['Next']='Suivant';strings['Play Slideshow']='Lire le diaporama';RegisterWidgetStrings("com-apple-iweb-widget-detailview",strings);})();
